@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@200&display=swap');
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho{
+    background-color: #D8E6E9;
+}
+.a{
+    display: flex;
+}
+.c{
+    width: 100px;
+    height: 100px;
+}
+.p{
+    display: flex;
+}
+.titulo{
+    font-family: 'Advent Pro', sans-serif;
+}
+.casa{
+    padding-left: 50px;
+}
+.trite{
+
+}
+.medo{
+
+}
+.psico{}
